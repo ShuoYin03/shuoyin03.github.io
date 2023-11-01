@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>不知所云集</title>
-    <link>https://shuoyin03.github.io/shuoyin03.github.io/notes/</link>
+    <link>https://shuoyin03.github.io/notes/</link>
     <description>Recent content on 不知所云集</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shuoyin03.github.io/shuoyin03.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://shuoyin03.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
