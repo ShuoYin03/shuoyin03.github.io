@@ -6,7 +6,16 @@
     <description>Recent content in Tags on UNKNOWN SPACE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shuoyin03.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shuoyin03.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Networking</title>
+      <link>https://shuoyin03.github.io/tags/networking/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuoyin03.github.io/tags/networking/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cognitive Robotics</title>
       <link>https://shuoyin03.github.io/tags/cognitive-robotics/</link>
@@ -35,33 +44,6 @@
     </item>
     
     <item>
-      <title>Algorithm</title>
-      <link>https://shuoyin03.github.io/tags/algorithm/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuoyin03.github.io/tags/algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Structure</title>
-      <link>https://shuoyin03.github.io/tags/data-structure/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuoyin03.github.io/tags/data-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leetcode</title>
-      <link>https://shuoyin03.github.io/tags/leetcode/</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://shuoyin03.github.io/tags/leetcode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>nlp</title>
       <link>https://shuoyin03.github.io/tags/nlp/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
@@ -76,6 +58,24 @@
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://shuoyin03.github.io/tags/distributed-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>https://shuoyin03.github.io/tags/algorithm/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuoyin03.github.io/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structure</title>
+      <link>https://shuoyin03.github.io/tags/data-structure/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuoyin03.github.io/tags/data-structure/</guid>
       <description></description>
     </item>
     
