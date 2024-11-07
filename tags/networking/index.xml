@@ -6,13 +6,13 @@
     <description>Recent content in Networking on UNKNOWN SPACE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shuoyin03.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://shuoyin03.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Networking - URL Journey From Browser</title>
-      <link>https://shuoyin03.github.io/2024/10/04/Networking/url-journey/</link>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <link>https://shuoyin03.github.io/2024/11/07/Networking/url-journey/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://shuoyin03.github.io/2024/10/04/Networking/url-journey/</guid>
+      <guid>https://shuoyin03.github.io/2024/11/07/Networking/url-journey/</guid>
       <description>This article will explain the series of processes that occur after a URL is entered into a browser and a query is initiated. The content is based on the book How the Internet Connects with some additional clarifications and expansions for better understanding.
 DNS - From Domain Name to IP Address When the browser receives a user&amp;rsquo;s URL request, the first step is to resolve the domain name into an IP address.</description>
     </item>
